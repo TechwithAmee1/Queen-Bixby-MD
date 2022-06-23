@@ -3,47 +3,47 @@
     "noiseKey": {
       "private": {
         "type": "Buffer",
-        "data": "YIL0G9FO1Se8S6Ssb0Y3eUiARlmUEiHt1KFbpQJobkM="
+        "data": "KMfK+3P2r4Q7eXDOVDlRdQ3771YdPOoVrlQ0lsczg08="
       },
       "public": {
         "type": "Buffer",
-        "data": "zq9NvGvLA4hrkJ7DbLyPmapnCfLA7yipayFV6CS6r1o="
+        "data": "O1vGncD5u5BHYy0x2UNMIQ+a5mK5yziUMWsV6RxUUlM="
       }
     },
     "signedIdentityKey": {
       "private": {
         "type": "Buffer",
-        "data": "mCbpayOcAVuS0pibyaoPg8XZw2ZxSOqnJsaLDSbHQWo="
+        "data": "4JwDCqy8s5pfWz6UD9zG5YZmNBXTNdWXaHB4QjGiU0E="
       },
       "public": {
         "type": "Buffer",
-        "data": "8amKYOWs7OahVP39uvSzfSnvwnsMoEnr0qZUesZWBAM="
+        "data": "Ik98E1PzfEFyq65X9mh63KqGF9HIMTPYFtE57YRgLx4="
       }
     },
     "signedPreKey": {
       "keyPair": {
         "private": {
           "type": "Buffer",
-          "data": "QP3Kp9c9wTeQ+qIN3p41x2HddDuHHqXQkhUT0sWK9UY="
+          "data": "YDaIOKkF1hN+HxdgO+0+z04AnSZFfyaFrjlOYYn7x0Q="
         },
         "public": {
           "type": "Buffer",
-          "data": "nkDHhMdZ42LqqsuIavWvzltYBFekYVa2mh7schsn3hs="
+          "data": "jvJKVBv/IH8rnYzl25I1GhofVmEPqw1rSufo3vptfVY="
         }
       },
       "signature": {
         "type": "Buffer",
-        "data": "f/2SUC1xTCfAvA0JBoR3DUzzMe4McIAMfc+D7vVoiXQvgBayhaRUREjE/jlg5S1fdhp3g2OA4IQIn0D3hFAJgA=="
+        "data": "VW7lxUPgv+UdF7PSombNmJcjfvUxK3Yu3bxTyxx0k+nJa0lKvvhuMGRE+lRBUUziGq9VpQPKa7vXYP1WDRjqhg=="
       },
       "keyId": 1
     },
-    "registrationId": 92,
-    "advSecretKey": "H+rqmka42wgwoYNnUf0Yz55Bjrr7DbjAYR7swi0oq20=",
+    "registrationId": 10,
+    "advSecretKey": "STmLcauE4AJ/RaDLbeZmwcN5+1TwP0T4/XmELIsO8OY=",
     "nextPreKeyId": 31,
     "firstUnuploadedPreKeyId": 31,
     "serverHasPreKeys": true,
     "account": {
-      "details": "CK29lqoEELvewpUGGAU=",
+      "details": "CI/Y1MkFENzOx5UGGAE=",
       "accountSignatureKey": "DGCojvi718APN3ETCM3zJr52DyOe4VkgGPEAUdUQbm4=",
       "accountSignature": "eIUizyTjH/Q5flj37RnpuPkH6nlEqfcWZfR/wLNfNsSh9aNyEaOWbkLZDRly+Wn+z4YbdWtSn0xK4YD4Uqn+BA==",
       "deviceSignature": "R97YemokAkBd0cxsycjWwT2A7id9KivWNaq43wAPl9zKxJqvc/29i6o06PEKRTuhVrG/7MWbHLb08vUvTS9wiA=="
